@@ -19,6 +19,7 @@ Persistant Volumes => https://kubernetes.io/docs/concepts/storage/persistent-vol
 A basic kubernetes course is available here => https://www.youtube.com/playlist?list=PLc0QrgsB1mNvOWdwu7R1T-z00R29SRMPn
 Learn the Concepts: => https://kubernetes.io/docs/concepts/
 Access Applications: => https://kubernetes.io/docs/tasks/access-application-cluster/
+Free Courses on Kubernetes: => https://kube.academy/courses
 
 
 ## Helpful YouTube Channels
